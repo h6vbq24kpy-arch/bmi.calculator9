@@ -57,10 +57,11 @@ body {
     margin-top: 15px;
 }
 
-.result
+.result,
 .BMIcategory {
     text-align: center;
 }
+
 
 
 
