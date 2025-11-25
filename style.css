@@ -1,0 +1,71 @@
+html {
+    font-size: 16px;
+}
+
+/* Body全体の設定 */
+body {
+    background-color: #66CCCC;
+    margin: auto;
+}
+
+/* タイトルの設定 */
+.head-line {
+    margin: auto;
+    margin-top: 30px;
+    text-align: center;
+}
+
+/* 説明の設定 */
+.explain {
+    font-weight: bold;
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+}
+
+/* インプット部分 */
+.height {
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.weight {
+    margin: auto;
+    text-align: center;
+}
+
+/* ボタンの設定 */
+.button-line {
+    margin: auto;
+    text-align: center;
+}
+
+/* ボタン間のスペースを調整 */
+.button {
+    margin: auto;
+    margin-right: 10px;
+}
+
+/* 結果表示の設定 */
+.result-line {
+    display: flex;
+    justify-content: center;   /* 横方向の中央寄せ */
+    align-items: center;       /* 縦方向の中央寄せ */
+    gap: 15px;
+    margin: auto;
+    margin-top: 15px;
+}
+
+.result
+.BMIcategory {
+    text-align: center;
+}
+
+
+
+
+
+
+
+
